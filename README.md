@@ -1,1 +1,2 @@
-# campeonato-handebol
+# Campeonato Handebol
+* Código com finalidade de estudos
